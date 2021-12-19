@@ -1,0 +1,15 @@
+/Users/maku/Projects/testoo/testoo/bin/Release/net6.0/testoo
+/Users/maku/Projects/testoo/testoo/bin/Release/net6.0/testoo.deps.json
+/Users/maku/Projects/testoo/testoo/bin/Release/net6.0/testoo.runtimeconfig.json
+/Users/maku/Projects/testoo/testoo/bin/Release/net6.0/testoo.dll
+/Users/maku/Projects/testoo/testoo/bin/Release/net6.0/ref/testoo.dll
+/Users/maku/Projects/testoo/testoo/bin/Release/net6.0/testoo.pdb
+/Users/maku/Projects/testoo/testoo/obj/Release/net6.0/testoo.csproj.AssemblyReference.cache
+/Users/maku/Projects/testoo/testoo/obj/Release/net6.0/testoo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maku/Projects/testoo/testoo/obj/Release/net6.0/testoo.AssemblyInfoInputs.cache
+/Users/maku/Projects/testoo/testoo/obj/Release/net6.0/testoo.AssemblyInfo.cs
+/Users/maku/Projects/testoo/testoo/obj/Release/net6.0/testoo.csproj.CoreCompileInputs.cache
+/Users/maku/Projects/testoo/testoo/obj/Release/net6.0/testoo.dll
+/Users/maku/Projects/testoo/testoo/obj/Release/net6.0/ref/testoo.dll
+/Users/maku/Projects/testoo/testoo/obj/Release/net6.0/testoo.pdb
+/Users/maku/Projects/testoo/testoo/obj/Release/net6.0/testoo.genruntimeconfig.cache

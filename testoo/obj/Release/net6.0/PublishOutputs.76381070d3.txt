@@ -1,0 +1,5 @@
+/Users/maku/Desktop/test/testoo
+/Users/maku/Desktop/test/testoo.dll
+/Users/maku/Desktop/test/testoo.deps.json
+/Users/maku/Desktop/test/testoo.runtimeconfig.json
+/Users/maku/Desktop/test/testoo.pdb

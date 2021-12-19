@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{61A049AD-873A-4FA6-8ABB-E433D4834B77}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testoo/Program.cs">
+    <Files>
+      <File FileName="testoo/Program.cs" Line="4" Column="78" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testoo" expanded="True">
+            <Node name="testoo" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.testoo FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
